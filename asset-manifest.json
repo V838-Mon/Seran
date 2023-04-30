@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f2bb880c.css",
+    "main.js": "/static/js/main.bfc1cd7c.js",
+    "static/media/icon_luna.png": "/static/media/icon_luna.e2037fec54f8fb2056ff.png",
+    "static/media/米哈游-国际化项目管理-殷子涵.pdf": "/static/media/米哈游-国际化项目管理-殷子涵.5279036d35b8d2055027.pdf",
+    "static/media/moon.jpeg": "/static/media/moon.a3b89e0311726bc31911.jpeg",
+    "index.html": "/index.html",
+    "main.f2bb880c.css.map": "/static/css/main.f2bb880c.css.map",
+    "main.bfc1cd7c.js.map": "/static/js/main.bfc1cd7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2bb880c.css",
+    "static/js/main.bfc1cd7c.js"
+  ]
+}
