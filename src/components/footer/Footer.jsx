@@ -35,13 +35,13 @@ const Footer = () => {
                 </a>
 
                 {/* 此处可改为 bilibili */}
-                <a href="https://www.instagram.com/" 
+                <a href="" 
                 className="footer_social-link" target='_blank'>
                     {/* 此处可改为bilibili */}
                     <i class="iconfont icon-Notion_w"></i>
                 </a>
                 
-                <a href="https://twitter.com/" 
+                <a href="https://github.com/V838-Mon" 
                 className="footer_social-link" target='_blank'>
                     {/* 此处可改为 lofter */}
                     <i class="iconfont icon-github"></i>
