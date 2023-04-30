@@ -49,7 +49,7 @@ const Contact = () => {
                     </div>
                 </div>
 
-                <a href="mailto:examplemail@gmail.com.com" className="button button-flex contact_button">
+                <a href="mailto:zihan_yin_09@163.com" className="button button-flex contact_button">
                     Write me{" "} 
                     <i className="bx bx-chevron-right contact_button-icon"></i>
                 </a>
