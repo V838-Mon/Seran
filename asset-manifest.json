@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "./static/css/main.1d4618d3.css",
-    "main.js": "./static/js/main.f299a4b1.js",
+    "main.js": "./static/js/main.489ca1c0.js",
     "static/media/icon_luna.png": "./static/media/icon_luna.e2037fec54f8fb2056ff.png",
     "static/media/米哈游-国际化项目管理-殷子涵.pdf": "./static/media/米哈游-国际化项目管理-殷子涵.5279036d35b8d2055027.pdf",
     "static/media/moon.jpeg": "./static/media/moon.a3b89e0311726bc31911.jpeg",
     "index.html": "./index.html",
     "main.1d4618d3.css.map": "./static/css/main.1d4618d3.css.map",
-    "main.f299a4b1.js.map": "./static/js/main.f299a4b1.js.map"
+    "main.489ca1c0.js.map": "./static/js/main.489ca1c0.js.map"
   },
   "entrypoints": [
     "static/css/main.1d4618d3.css",
-    "static/js/main.f299a4b1.js"
+    "static/js/main.489ca1c0.js"
   ]
 }
