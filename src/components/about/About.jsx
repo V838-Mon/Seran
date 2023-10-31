@@ -3,7 +3,7 @@ import "./about.css";
 // 此处为个人照片
 import AboutImg from "../../assets/icon_luna.png";
 // 此处为 CV
-import CV from "../../assets/米哈游-国际化项目管理-殷子涵.pdf";
+import CV from "../../assets/米哈游-市场-殷子涵。PDF";
 import Info from './Info';
 
 
